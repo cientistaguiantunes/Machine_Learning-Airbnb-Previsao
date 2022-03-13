@@ -1,0 +1,4 @@
+- Link do dataset no Kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
+
+- Link de uma solução alternativa
+https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb
